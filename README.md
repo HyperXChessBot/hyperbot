@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Rlov39v.png)
+
 
 # Welcome to Hyper Bot !
 ## Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 )
